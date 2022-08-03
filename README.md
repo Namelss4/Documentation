@@ -2,7 +2,7 @@
 ## por Jerónimo Cano
 ### Sistemas computacionales
 
-**I should have known** that one day *you* would be *haunting* me as ==well==.
+**I should have known** that one day *you* would be *haunting* me as `well`.
 
 1. No sé qué poner 
 2. Pero tengo que poner algo
